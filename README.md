@@ -1,7 +1,7 @@
 # Morphing
-<br>
+<br><br>
 Implemented as a part of a graduate course CSE 5280 Computer Graphics.
-<br>
+<br><br>
 
 ![p1](https://user-images.githubusercontent.com/30881186/46502411-f57ad300-c7dc-11e8-8bb1-dad18dead4f0.jpg)
 ![morph1](https://user-images.githubusercontent.com/30881186/46502478-1c390980-c7dd-11e8-84af-ce8e2f8696f4.jpg)
